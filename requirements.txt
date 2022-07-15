@@ -1,0 +1,11 @@
+future
+numpy; python_version < '3.0'
+numpy==1.18.4; python_version >= '3.0'
+matplotlib
+openpyxl
+pandas
+Pillow
+plotly
+pygame
+open3d
+Pillow
