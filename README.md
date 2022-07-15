@@ -106,7 +106,7 @@ $ python3.7 -m pip install -r requirements.txt
  8. To control the car use the keys (W,A,S,D) and (Q) to change the gear.
  9. You can see a box delimiting the other cars and the ID of the cars on top of them.
  10. When you want to end the execution just click on the ESC key.
- 11. At the end of the execution a ZIP will be generated with all the information from both cars that can be used in the software ["dre2.py"](https://github.com/fredpedroso/CARLA-Examples/tree/main/Examples/Drawing%20Path%20Cars). !!! Hardcoded to my repo
+ 11. At the end of the execution a ZIP will be generated with all the information from both cars that can be used in the project [CARLA-2DCarsPath](https://github.com/FranciscoG001/CARLA-2DCarsPath)
 
 # What can be improved
 
