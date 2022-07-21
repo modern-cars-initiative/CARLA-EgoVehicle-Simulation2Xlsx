@@ -5,6 +5,11 @@
 # posiçao do import do carla
 # pylint: disable=superfluous-parens
 # pylint: disable=too-many-lines
+# pylint: disable=line-too-long
+# pylint: disable=no-member
+# Up line ignore pygame
+# pylint: disable=import-error
+# Up line ignore carla import
 # Copyright (c) 2019 Computer Vision Center (CVC) at the Universitat Autonoma de
 # Barcelona (UAB).
 #
